@@ -1,4 +1,4 @@
-var YOURLS = require("node-yourls");
+var YOURLS = require("node-yourls-api");
 var yourls = new YOURLS("https://short.ly/yourls-api.php"); // You must supply an URL to your yourls-api.php
 yourls.login("123456789a"); // Your secret signature token to use the API.
 
