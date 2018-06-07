@@ -1,0 +1,25 @@
+{
+  "name": "node-yourls",
+  "version": "1.0.0",
+  "description": "YOURLS API bindings for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aex12/node-yourls.git"
+  },
+  "keywords": [
+    "yourls",
+    "urlshortener",
+    "shortener",
+    "api"
+  ],
+  "author": "Aex12",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aex12/node-yourls/issues"
+  },
+  "homepage": "https://github.com/Aex12/node-yourls#readme"
+}
