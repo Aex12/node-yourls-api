@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aex12/node-yourls.git"
+    "url": "git+https://github.com/Aex12/node-yourls-api.git"
   },
   "keywords": [
     "yourls",
@@ -19,9 +19,9 @@
   "author": "Aex12",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Aex12/node-yourls/issues"
+    "url": "https://github.com/Aex12/node-yourls-api/issues"
   },
-  "homepage": "https://github.com/Aex12/node-yourls#readme",
+  "homepage": "https://github.com/Aex12/node-yourls-api#readme",
   "dependencies": {
     "md5": "^2.2.1",
     "request": "^2.87.0"
