@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Aex12/node-yourls#readme",
   "dependencies": {
+    "md5": "^2.2.1",
     "request": "^2.87.0"
   }
 }
