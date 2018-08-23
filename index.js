@@ -41,7 +41,7 @@ class YOURLS {
 					try {
 						resolve(JSON.parse(body));
 					} catch (e) {
-						reject("Can't decode JSON response");
+						reject("Can't decode JSON response:\n"+body);
 					}
 				} else {
 					if(err)
