@@ -1,6 +1,6 @@
 {
   "name": "node-yourls-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "YOURLS API bindings for NodeJS",
   "main": "index.js",
   "scripts": {
